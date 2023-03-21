@@ -1,6 +1,10 @@
 import express from 'express'
 import { apiRouter } from './apiRouter.js'
 import multer from 'multer'
+import { ProductManager } from './ProductManager.js'
+
+const PORT = 8080
+
 
 const storage = multer.diskStorage({
     destination: function (req, file, cb) {
@@ -38,5 +42,5 @@ app.use((error, req, res, next) => {
     res.json({ message: error.message })
 })
 
-const server = app.listen(8080)
+const server = app.listen(PORT)
 

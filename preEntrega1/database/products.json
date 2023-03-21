@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "title": "Añejo Patrón",
+    "description": "Tequila 100% Agave, Hecho en México",
+    "code": "47ba9b39-c180-4ab1-9d35-d5e219b63fd1",
+    "price": 6800,
+    "status": true,
+    "stock": 25,
+    "category": "licores",
+    "thumbnail": [
+      "./static/img/products/anejopatron.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Bombay Shapphire",
+    "description": "London Dry Gin, Alc.40%",
+    "code": "28a367b3-83a4-465b-b842-2d22e07cf987",
+    "price": 4800,
+    "status": true,
+    "stock": 25,
+    "category": "licores",
+    "thumbnail": [
+      "./static/img/products/bombay-saphire.webp"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Chimay Bleu",
+    "description": "Peres Trappistes, hecho en Bélgica, Alc. 9%",
+    "code": "0af88dde-6e28-4afd-8361-0aece3a08be3",
+    "price": 2400,
+    "status": true,
+    "stock": 25,
+    "category": "cervezas",
+    "thumbnail": [
+      "./static/img/products/Chimay bleu.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Cerveza Ciney",
+    "description": "Cerveza Belga Blonde, Alc.10%",
+    "code": "7a561bde-2bb7-4361-8380-075498bb1dbb",
+    "price": 2420,
+    "status": true,
+    "stock": 25,
+    "category": "cervezas",
+    "thumbnail": [
+      "./static/img/products/ciney-blonde.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Lindemans Kriek Cherry",
+    "description": "Cerveza Lambic, sabor cereza, Hecha en Bélgica",
+    "code": "c9735da9-9838-4586-82ab-67040f7aaa5b",
+    "price": 2600,
+    "status": true,
+    "stock": 25,
+    "category": "cervezas",
+    "thumbnail": [
+      "./static/img/products/Lindemans_Kriek_BottleGlass_website_2022-1.png"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Delirium Tremens Blonde",
+    "description": "Cerveza Rubia, Hecha en Bélgica, Alc. 8,5%",
+    "code": "ffebd682-f170-4515-85d7-d82a05eaef66",
+    "price": 2400,
+    "status": true,
+    "stock": 25,
+    "category": "cervezas",
+    "thumbnail": [
+      "./static/img/products/delirium-tremens-blonde.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "El Profeta",
+    "description": "Ginebra, Industria Argentina, Alc. 40%",
+    "code": "fcae7d1c-b043-4b36-8709-b7a74c3ff68b",
+    "price": 2400,
+    "status": true,
+    "stock": 25,
+    "category": "vino",
+    "thumbnail": [
+      "./static/img/products/ginebra-el-profeta-750-ml.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Luca Old Vine Malbec",
+    "description": "Uco Valley ",
+    "code": "81fcd1ec-0b3d-40c7-9d8b-6a905d369cd7",
+    "price": 3100,
+    "status": true,
+    "stock": 25,
+    "category": "vino",
+    "thumbnail": [
+      "./static/img/products/luca-malbec.png"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Zarapaca XO",
+    "description": "Gran Reserva Especial, Solera, Hecho en Guatamala",
+    "code": "9aeea207-d0b9-4c4a-bc85-5ad2276e1672",
+    "price": 7800,
+    "status": true,
+    "stock": 25,
+    "category": "licores",
+    "thumbnail": [
+      "./static/img/products/ron-zaracapa-xo.webp"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Rutini Malbec",
+    "description": "Mendoza, alc. 18% ",
+    "code": "0d1871ea-56ec-402a-9017-6a2af34b183d",
+    "price": 2790,
+    "status": true,
+    "stock": 25,
+    "category": "licores",
+    "thumbnail": [
+      "./static/img/products/rutini-malbec-2021.png"
+    ]
+  },
+  {
+    "id": 11,
+    "title": " Santa Teresa 1796",
+    "description": "Ron Venezolano Extra Añejo, Alc.40%",
+    "code": "7f75fe9d-19fa-4c4b-bc0e-f86248048477",
+    "price": 7000,
+    "status": true,
+    "stock": 25,
+    "category": "licores",
+    "thumbnail": [
+      "./static/img/products/santa-teresa-1796.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "El Enemigo, Malbec",
+    "description": "Mendoza. Año 2021",
+    "code": "70dbf068-925d-4c75-a9e6-c2cb00f3f4fc",
+    "price": 3560,
+    "status": true,
+    "stock": 25,
+    "category": "vino",
+    "thumbnail": [
+      "./static/img/products/vino-el-enemigo-malbec-botella-750ml-a582a8a18e.webp"
+    ]
+  }
+]
